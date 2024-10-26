@@ -12,7 +12,7 @@ const ResumeApi = [
     id: 2,
     category: "education",
     // year: "At SHREEYU ENGINEERING SERVICES, we specialize in cutting-edge miscellaneous steel detailing, providing advanced solutions engineered to satisfy the most demanding design criteria. Our extensive knowledge of industry standards and steel detailing codes allows us to provide solutions that are both innovative and compliant, ensuring that every detail aligns with specific requirements and project goals.",
-    title: "Miscellaneous Steel Detailing Servicesg",
+    title: "Miscellaneous Steel Detailing Services",
     desc: "At SHREEYU ENGINEERING SERVICES, we specialize in cutting-edge miscellaneous steel detailing, providing advanced solutions engineered to satisfy the most demanding design criteria. Our extensive knowledge of industry standards and steel detailing codes allows us to provide solutions that are both innovative and compliant, ensuring that every detail aligns with specific requirements and project goals.",
     // rate: "60%",
   },

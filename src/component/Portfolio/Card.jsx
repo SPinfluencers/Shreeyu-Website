@@ -46,10 +46,10 @@ const Card = (props) => {
               <p>{props.description}</p>
               <p>{props.description_1}</p>
               <div className='button f_flex mtop'>
-                <button className='btn_shadow'><a style={{color: "red"}} target="_blank" href={props.github}> GITHUB </a>
+                <button className='btn_shadow'><a style={{color: "red"}} target="_blank" href={props.github}></a>
                    <i class='far fa-thumbs-up'></i>
                 </button>
-                <button className='btn_shadow'><a style={{color: "red"}} target="_blank" href={props.view}> VIEW PROJECT </a>
+                <button className='btn_shadow'><a style={{color: "red"}} target="_blank" href={props.view}> </a>
                  <i class='fas fa-chevron-right'></i>
                 </button>
               </div>

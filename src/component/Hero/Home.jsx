@@ -45,16 +45,16 @@ const Home = () => {
                 <h4>FIND WITH ME</h4>
                 <div className='button'>
                   <button className='btn_shadow'>
-                    <i class='fab fa-facebook-f'><a target="_blank" href="https://www.linkedin.com/in/sagar-pawar-285474113/"><img src={skill1} alt="linkdin" /></a></i>
+                    <i class='fab fa-facebook-f'><a target="_blank" href="https://www.linkedin.com"><img src={skill1} alt="linkdin" /></a></i>
                   </button>
                   <button className='btn_shadow'>
                     <i class='fab fa-instagram'><a target="_blank" href="https://facebook.com"><img src={facebook} alt="github" /></a></i>
                   </button>
                   <button className='btn_shadow'>
-                    <i class='fab fa-linkedin-in'><a target="_blank" href="https://www.gmail.com/"><img src={gmail} alt="gmail" /></a></i>
+                    <i class='fab fa-linkedin-in'><a target="_blank" href="https://www.gmail.com"><img src={gmail} alt="gmail" /></a></i>
                   </button>
                   <button className='btn_shadow'>
-                    <i class='fab fa-linkedin-in'><a target="_blank" href="https://twitter.com/sagarpawar1493"><img src={twitter} alt="twitter" /></a></i>
+                    <i class='fab fa-linkedin-in'><a target="_blank" href="https://twitter.com"><img src={twitter} alt="twitter" /></a></i>
                   </button>
                 </div>
               </div>

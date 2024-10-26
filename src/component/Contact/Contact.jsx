@@ -54,15 +54,15 @@ const Contact = () => {
                   <h1>Shreeyu Engineering Services</h1>
                   {/* <p>Full Stack Web Developer</p> */}
                   <p>Well established structural steel detailing firm with a background of reputed works carried out within a short period of time. The company is located in INDIA with a presence in USA.</p> <br />
-                  <p>Phone: 9403548260</p>
-                  <p>Email: sagarpawar1493@gmail.com</p> <br />
+                  <p>Phone: 9284415288</p>
+                  <p>Email: sales@shreeyuengineering.com</p> <br />
                   <span>FIND WITH ME</span>
                   <div className='button f_flex'>
                     <button className='btn_shadow'>
-                      <i class='fab fa-instagram'><a target="_blank" href="https://www.linkedin.com/in/sagar-pawar-285474113/"><img width='20px' src={skill1} alt="linkdin" /></a></i>
+                      <i class='fab fa-instagram'><a target="_blank" href="https://www.linkedin.com"><img width='20px' src={skill1} alt="linkdin" /></a></i>
                     </button>
                     <button className='btn_shadow'>
-                      <i className='fab fa-instagram'><a target="_blank" href="https://github.com/SPinfluencers"><img width='20px' src={github} alt="github" /></a></i>
+                      <i className='fab fa-instagram'><a target="_blank" href="https://github.com"><img width='20px' src={github} alt="github" /></a></i>
                     </button>
                     <button className='btn_shadow'>
                       <i className='fab fa-twitter'><a target="_blank" href="https://www.gmail.com/"><img width='20px' src={gmail} alt="gmail" /></a></i>
